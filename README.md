@@ -1,5 +1,10 @@
 # Proyecto AR.js
 
+## Integrantes 
+* Sebastián Aliaga 
+* Nicolás Benavides 
+* Hernán Berrazueta
+
 Este es el repositorio del proyecto realizado con AR.js
 
 ------------------------------------------------------------------------------------------
