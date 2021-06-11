@@ -15,4 +15,4 @@ https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
 ------------------------------------------------------------------------------------------
 
 Link del video:
-https://youtu.be/_f4IguYAY58
+Video en [YouTube](https://youtu.be/_f4IguYAY58)
