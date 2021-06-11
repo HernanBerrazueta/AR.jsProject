@@ -11,3 +11,8 @@ https://hernanberrazueta.github.io/AR.jsProject/
 
 La imagen para que aparezca el cubo se encuentra en el siguiente link:                    
 https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
+
+------------------------------------------------------------------------------------------
+
+Link del video:
+https://youtu.be/_f4IguYAY58
